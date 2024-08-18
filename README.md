@@ -1,8 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SirawitTop
-==================================================================================================================================
+<h1 align="center">Hi ! 👋, I'm SirawitTop </h1>
 
-Computer Science Student University of Phayao
----------------------------------------------
+
+<h2 align="center">Computer Science Student University of Phayao </h2>
 
 Hello, My name is Top. I am a Computer Science student at the University of Phayao. I have 2 years of programming experience in Go, JavaScript, Java, and Python. Seeking a DevOps or Backend (Go) role to apply my skills and knowledge in a fast-paced, collaborative environment. I am a diligent person to learn. I like challenges and I like problem-solving.
 
