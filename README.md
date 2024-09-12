@@ -3,8 +3,7 @@
 
 <h2 align="center">Computer Science Student University of Phayao </h2>
 
-Hello, My name is Top. I am a Computer Science student at the University of Phayao. I have 2 years of programming experience in Go, JavaScript, Java, and Python. Seeking a DevOps or Backend (Go) role to apply my skills and knowledge in a fast-paced, collaborative environment. I am a diligent person to learn. I like challenges and I like problem-solving.
-
+Hello, I'm Top. I am a Computer Science student at the University of Phayao. I have 3 years of programming experience in Go, JavaScript, Java, and Python.
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [sirawit.code@gmail.com](mailto:sirawit.code@gmail.com)
 * 🧠  I'm learning Git, CICD, Docker, Devops, C#
