@@ -6,7 +6,7 @@
 Hello, I'm Top. I am a Computer Science student at the University of Phayao. I have 3 years of programming experience in Go, JavaScript, Java, and Python.
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [sirawit.code@gmail.com](mailto:sirawit.code@gmail.com)
-* 🧠  I'm learning Git, CICD, Docker, Devops, C#
+* 🧠  I'm learning C#, Angular, MSSQL
 
 ### Skills
 
