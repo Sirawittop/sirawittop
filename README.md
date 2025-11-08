@@ -4,7 +4,7 @@
 
 ## 🎓 About Me
 I'm a Master's student in **Innovation, Technology, and Learning Sciences** at Khon Kaen University, passionate about **educational technology**, **innovative teaching**, and creating tools that enhance learning experiences.  
-I also hold a **Bachelor of Science in Computer Science** from the University of Phayao (GPA: 3.84).  
+I also hold a **Bachelor of Science in Computer Science** from the University of Phayao.
 
 ---
 
